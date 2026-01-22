@@ -19,7 +19,7 @@ O objetivo deste repositório é consolidar o aprendizado em **Java e no ecossis
 - Docker e conteinerização
 - Deploy em nuvem (AWS)
 
-- ## Tecnologias
+## Tecnologias
 
 - Java
 - Spring Boot
