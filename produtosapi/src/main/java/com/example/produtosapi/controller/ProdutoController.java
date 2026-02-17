@@ -39,4 +39,9 @@ public class ProdutoController {
         return produtoRepository.findAll();
     }
 
+    @DeleteMapping("/{id}")
+    public void deleteById(@PathVariable("id") String id) /*PathVariable para receber o ID via Url*/ {
+        produtoRepository.deleteById(id);
+    }
+
 }
