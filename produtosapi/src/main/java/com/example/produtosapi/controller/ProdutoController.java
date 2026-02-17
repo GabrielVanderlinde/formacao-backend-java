@@ -50,4 +50,9 @@ public class ProdutoController {
         produtoRepository.save(produto);
     }
 
+    @GetMapping
+    public List<Produto> buscar(@RequestParam("nome") String nome) {
+        return produtoRepository.findByNome(nome);
+    }
+
 }
