@@ -7,7 +7,6 @@ O objetivo deste repositório é consolidar o aprendizado em **Java e no ecossis
 ---
 
 ##  Conteúdos Estudados
-
 - Fundamentos da linguagem Java
 - Programação Orientada a Objetos (POO)
 - Collections e Streams
@@ -19,8 +18,7 @@ O objetivo deste repositório é consolidar o aprendizado em **Java e no ecossis
 - Docker e conteinerização
 - Deploy em nuvem (AWS)
 
-- ## Tecnologias
-
+## Tecnologias
 - Java
 - Spring Boot
 - Spring Data JPA
